@@ -2,7 +2,7 @@
 A small react project to learn the basics of Material UI (MUI5)
 
 # Material UI
-https://mui.com/material-ui/getting-started/installation/
+This project uses [Material UI](https://mui.com/material-ui/getting-started/installation/).
 
 # Getting Started with Create React App
 
